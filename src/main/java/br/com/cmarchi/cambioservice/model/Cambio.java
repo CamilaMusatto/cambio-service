@@ -1,7 +1,6 @@
 package br.com.cmarchi.cambioservice.model;
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Objects;
