@@ -5,11 +5,11 @@
 </p>
 
 
-## Descrição do Projeto
+## Descrição do Projeto 🚀
 <p align="left">Microsserviço para conversão de moedas.</p>
 
 
-## Como executar o projeto
+## Como executar o projeto 🚀
 
 <p>Antes de começar você vai precisa ter instalado em sua máquina:</p>
 <p>:computer: Docker</p>
@@ -36,7 +36,7 @@ git clone https://github.com/CamilaMusatto/cambio-service.git
 ```
 
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🚀
 <div style="display: inline_block">
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="48">  
 <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="48"> 
