@@ -1,13 +1,40 @@
 <h1 align="left">Cambio Service</h1>
 
-![image](https://img.shields.io/badge/license-MIT-green) &nbsp; 
-![image](https://img.shields.io/badge/IDE-IntelliJ%20Idea-green) &nbsp;
-![image](https://img.shields.io/badge/Java-v%2016.0.0-orange) &nbsp; 
-![image](https://img.shields.io/badge/status-em%20desenvolvimento-green) &nbsp;
-<br>
+<p align="left">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 
 ## Descrição do Projeto
 <p align="left">Microsserviço para conversão de moedas.</p>
+
+
+## Como executar o projeto
+
+<p>Antes de começar você vai precisa ter instalado em sua máquina:</p>
+<p>:computer: Docker</p>
+<p>:computer: Git</p>
+<p>:computer: MySQL</p>
+
+<p>Além disso você precisará de um editor para trabalhar com o código, como o IntelliJ por exemplo.</p>
+
+<br>
+
+```bash
+# Abra o terminal na pasta onde você deseja salvar o repositório.
+
+# Clone o repositório
+git clone https://github.com/CamilaMusatto/cambio-service.git
+
+# Abra a IDE escolhida e carregue o projeto
+
+# O Maven irá baixar as dependências, isso pode levar um tempo
+
+# Execute a aplicação, ela será aberta na porta 8000
+
+# Para visualizar o Swagger do projeto acesse: http://localhost:8000/swagger-ui.html
+```
+
 
 ## Tecnologias Utilizadas
 <div style="display: inline_block">
@@ -20,4 +47,6 @@
 
 
 </div>
+
+
 
